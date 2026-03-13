@@ -1,8 +1,8 @@
 --[[
 -------------------------------------------
--- Addon: LoseControl TBC
+-- Addon: EnjoyLoseControl
 -- Version: 1.0.0
--- Authors: millanzarreta, Kouri
+-- Authors: millanzarreta, Kouri, enjoymygripz
 -------------------------------------------
 
 ]]
