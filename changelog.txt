@@ -1,0 +1,14 @@
+# EnjoyLoseControl Changelog
+
+## 1.0.0
+
+### Added
+- Added a TBC Anniversary-ready EnjoyLoseControl release.
+- Added an Info panel with support and CurseForge contact links.
+- Added cleaner slider visuals and select-to-copy link fields.
+- Added updated Anniversary options compatibility and improved arena anchor handling.
+
+### Fixed
+- Fixed the options panel opening on TBC Anniversary.
+- Fixed slider rendering issues in the config UI.
+- Fixed Info panel layout, button placement, and link selection behavior.
